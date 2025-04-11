@@ -1,10 +1,6 @@
 //"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.7/bin/nvcc.exe",
 
 
-
-
-
-
 #include <iostream>
 
 __global__ void add(int *a, int *b, int *c)
